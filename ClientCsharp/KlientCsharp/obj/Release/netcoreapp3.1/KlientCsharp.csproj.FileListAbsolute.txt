@@ -1,0 +1,12 @@
+C:\Users\Majkel\Desktop\RAIM\KlientCsharp\KlientCsharp\bin\Release\netcoreapp3.1\KlientCsharp.exe
+C:\Users\Majkel\Desktop\RAIM\KlientCsharp\KlientCsharp\bin\Release\netcoreapp3.1\KlientCsharp.deps.json
+C:\Users\Majkel\Desktop\RAIM\KlientCsharp\KlientCsharp\bin\Release\netcoreapp3.1\KlientCsharp.runtimeconfig.json
+C:\Users\Majkel\Desktop\RAIM\KlientCsharp\KlientCsharp\bin\Release\netcoreapp3.1\KlientCsharp.runtimeconfig.dev.json
+C:\Users\Majkel\Desktop\RAIM\KlientCsharp\KlientCsharp\bin\Release\netcoreapp3.1\KlientCsharp.dll
+C:\Users\Majkel\Desktop\RAIM\KlientCsharp\KlientCsharp\bin\Release\netcoreapp3.1\KlientCsharp.pdb
+C:\Users\Majkel\Desktop\RAIM\KlientCsharp\KlientCsharp\obj\Release\netcoreapp3.1\KlientCsharp.AssemblyInfoInputs.cache
+C:\Users\Majkel\Desktop\RAIM\KlientCsharp\KlientCsharp\obj\Release\netcoreapp3.1\KlientCsharp.AssemblyInfo.cs
+C:\Users\Majkel\Desktop\RAIM\KlientCsharp\KlientCsharp\obj\Release\netcoreapp3.1\KlientCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Majkel\Desktop\RAIM\KlientCsharp\KlientCsharp\obj\Release\netcoreapp3.1\KlientCsharp.dll
+C:\Users\Majkel\Desktop\RAIM\KlientCsharp\KlientCsharp\obj\Release\netcoreapp3.1\KlientCsharp.pdb
+C:\Users\Majkel\Desktop\RAIM\KlientCsharp\KlientCsharp\obj\Release\netcoreapp3.1\KlientCsharp.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Majkel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Majkel\\.nuget\\packages"
+    ]
+  }
+}
